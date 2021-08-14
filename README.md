@@ -3,8 +3,11 @@
 
 책을 보면서 해봤던 실습 들 정리해서 올리는 저장소
 
-##Project List
+## Project List
 
-### 1st
+### 1st - 코틀린 안드로이드 이해하기
 
+### 2st - 앱 실행하기
+
+[SayHello!](http://www.google.co.kr)
 
