@@ -7,11 +7,9 @@ import com.example.array.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
-    val binding = ActivityMainBinding.inflate(layoutInflater)
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(binding.root)
+        setContentView(R.layout.activity_main)
 
         // 1. 기본 타입 배열 선언하기 - 각 기본 타입별로 10개의 빈 공간이 할당된다.
         var students = IntArray(10)

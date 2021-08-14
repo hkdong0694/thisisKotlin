@@ -7,11 +7,9 @@ import com.example.controlflow3.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
-    val binding = ActivityMainBinding.inflate(layoutInflater)
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(binding.root)
+        setContentView(R.layout.activity_main)
 
         var eraOfRyu = 2.32
         var eraOfDegrom = 2.43

@@ -7,11 +7,9 @@ import com.example.collectionmap.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
-    val binding = ActivityMainBinding.inflate(layoutInflater)
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(binding.root)
+        setContentView(R.layout.activity_main)
 
         // 1. 맵 생성하기
         var map = mutableMapOf<String, String>()

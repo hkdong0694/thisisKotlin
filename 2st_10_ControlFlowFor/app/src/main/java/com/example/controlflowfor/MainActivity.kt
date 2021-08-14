@@ -7,11 +7,9 @@ import com.example.controlflowfor.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
-    val binding = ActivityMainBinding.inflate(layoutInflater)
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(binding.root)
+        setContentView(R.layout.activity_main)
 
         // 1. 일반적인 반복문 사용으로 열 번 반복하기
         for(index in 1..10) {
