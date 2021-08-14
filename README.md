@@ -28,5 +28,7 @@
 * #### 2st-3 배열
     
     [Array](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_06_Array) - 배열_01 ( Array )
+    
+    [ColloectionList](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_07_Collection) - 배열_02 ( CollectionList )
 
 
