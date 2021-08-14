@@ -11,13 +11,13 @@
 
 ### 2st - 코틀린 사용을 위한 기본 문법
 
-[BasicSyntax](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_01_BasicSyntax)
+[BasicSyntax](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_01_BasicSyntax) - 변수 할당 ( var, val )
 
-[ControlFLow1](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_02_ControlFlow1)
+[ControlFlow1](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_02_ControlFlow1) - 제어문_01 ( if )
 
-[ControlFLow2](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_02_ControlFlow2)
+[ControlFlow2](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_02_ControlFlow2) - 제어문_02 ( if, else if )
 
-[ControlFLow3](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_02_ControlFlow3)
+[ControlFlow3](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_02_ControlFlow3) - 제어문_03 ( 변수에 직접 if문 사용 )
 
 
 
