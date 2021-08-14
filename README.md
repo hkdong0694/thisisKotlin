@@ -9,5 +9,5 @@
 
 ### 2st - 앱 실행하기
 
-[SayHello!](http://www.google.co.kr)
+[SayHello!](https://github.com/hkdong0694/thisisKotlin/tree/master/1st_01_SayHello)
 
