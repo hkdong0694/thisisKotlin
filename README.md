@@ -31,7 +31,7 @@
     
     [ColloectionList](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_07_Collection) - 배열_02 ( CollectionList )
     
-    [CollectionSet](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_08_CollectionSet) - 배열_03 ( CollectionSet )
+    [CollectionSet](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_08_CollectionSet) - 배열_03 ( CollectionSet ) 
     [CollectionMap](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_09_CollectionMap) - 배열_04 ( CollectionMap )
 
 
