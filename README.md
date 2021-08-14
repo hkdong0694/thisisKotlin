@@ -19,5 +19,7 @@
 
 [ControlFlow3](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_02_ControlFlow3) - 제어문_03 ( 변수에 직접 if문 사용 )
 
+[ControlFlow4](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_02_ControlFlow4) - 제어문_04 ( when )
+
 
 
