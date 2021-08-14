@@ -24,6 +24,9 @@
     [ControlFlow3](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_04_ControlFlow3) - 조건문_03 ( 변수에 직접 if문 사용 )
 
     [ControlFlow4](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_05_ControlFlow4) - 조건문_04 ( when )
-
+    
+* #### 2st-3 배열
+    
+    [Array](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_06_Array) - 배열_01 ( Array )
 
 
