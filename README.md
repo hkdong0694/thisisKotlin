@@ -13,7 +13,7 @@
 
 * #### 2st-1 변수
 
-[BasicSyntax](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_01_BasicSyntax) - 변수 할당 ( var, val )
+    [BasicSyntax](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_01_BasicSyntax) - 변수 할당 ( var, val )
 
 [ControlFlow1](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_02_ControlFlow1) - 제어문_01 ( if )
 
