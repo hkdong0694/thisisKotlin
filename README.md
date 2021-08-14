@@ -15,13 +15,15 @@
 
     [BasicSyntax](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_01_BasicSyntax) - 변수 할당 ( var, val )
 
-[ControlFlow1](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_02_ControlFlow1) - 제어문_01 ( if )
+* #### 2st-2 제어문
 
-[ControlFlow2](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_03_ControlFlow2) - 제어문_02 ( if, else if )
+    [ControlFlow1](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_02_ControlFlow1) - 조건문_01 ( if )
 
-[ControlFlow3](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_04_ControlFlow3) - 제어문_03 ( 변수에 직접 if문 사용 )
+    [ControlFlow2](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_03_ControlFlow2) - 조건문_02 ( if, else if )
 
-[ControlFlow4](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_05_ControlFlow4) - 제어문_04 ( when )
+    [ControlFlow3](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_04_ControlFlow3) - 조건문_03 ( 변수에 직접 if문 사용 )
+
+    [ControlFlow4](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_05_ControlFlow4) - 조건문_04 ( when )
 
 
 
