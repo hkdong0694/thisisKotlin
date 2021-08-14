@@ -15,11 +15,11 @@
 
 [ControlFlow1](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_02_ControlFlow1) - 제어문_01 ( if )
 
-[ControlFlow2](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_02_ControlFlow2) - 제어문_02 ( if, else if )
+[ControlFlow2](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_03_ControlFlow2) - 제어문_02 ( if, else if )
 
-[ControlFlow3](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_02_ControlFlow3) - 제어문_03 ( 변수에 직접 if문 사용 )
+[ControlFlow3](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_04_ControlFlow3) - 제어문_03 ( 변수에 직접 if문 사용 )
 
-[ControlFlow4](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_02_ControlFlow4) - 제어문_04 ( when )
+[ControlFlow4](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_05_ControlFlow4) - 제어문_04 ( when )
 
 
 
