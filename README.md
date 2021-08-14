@@ -25,10 +25,14 @@
 
     [ControlFlow4](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_05_ControlFlow4) - 조건문_04 ( when )
     
-* #### 2st-3 배열
+* #### 2st-3 배열 ( [설명](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_06_Array) )
     
     [Array](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_06_Array) - 배열_01 ( Array )
     
     [ColloectionList](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_07_Collection) - 배열_02 ( CollectionList )
+    
+    [CollectionSet](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_08_CollectionSet) - 배열_03 ( CollectionSet )
+    
+    [CollectionMap](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_09_CollectionMap) - 배열_04 ( CollectionMap )
 
 
