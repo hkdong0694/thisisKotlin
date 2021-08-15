@@ -40,3 +40,7 @@
     [ControlFlowFor](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_10_ControlFlowFor) - 반복문_01 ( For )
 
     [ControlFlowWhile](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_11_ControlFlowWhile) - 반복문_02 ( While )
+    
+* #### 2st-5 함수
+
+    [Function](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_12_Function) - 함수 ( Function )
