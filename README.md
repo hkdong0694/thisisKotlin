@@ -50,3 +50,7 @@
     [Inheritance](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_13_Inheritance) - 클래스, 상속 ( Class, Inderitance )
     
     [DesignTool](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_14_DesignTool) - 추상화, 인터페이스, 설계 ( Abstract, Interface, DesignTool )
+    
+* #### 2st-7 NullSafety
+
+    [NullSafety](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_15_NullSafety) - NullSafety ( ? , ?: , ?. )
