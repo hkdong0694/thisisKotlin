@@ -44,3 +44,9 @@
 * #### 2st-5 함수
 
     [Function](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_12_Function) - 함수 ( Function )
+    
+* #### 2st-6 클래스와 설계 ( [용어 정리](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_13_Inheritance) )
+
+    [Inheritance](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_13_Inheritance) - 클래스, 상속 ( Class, Inderitance )
+    
+    [DesignTool](https://github.com/hkdong0694/thisisKotlin/tree/master/2st_14_DesignTool) - 추상화, 인터페이스, 설계 ( Abstract, Interface, DesignTool )
