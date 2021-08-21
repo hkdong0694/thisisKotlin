@@ -60,4 +60,6 @@
 * #### 3st-1 배치를 담당하는 레이아웃
 
 * #### 3st-2 화면에 그려지는 디자인 요소 위젯
+    
+    [TextView](https://github.com/hkdong0694/thisisKotlin/tree/master/3st_04_TextView)
 
