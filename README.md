@@ -67,5 +67,7 @@
     
     [ImageButton](https://github.com/hkdong0694/thisisKotlin/tree/master/3st_06_ImageButton) - 이미지를 갖는 버튼 위젯
     
-    [RadioButton](https://github.com/hkdong0694/thisisKotlin/tree/master/3st_07_RadioButton) -여러개의 선택지 중에서 하나만 선택하는 위젯
+    [RadioButton](https://github.com/hkdong0694/thisisKotlin/tree/master/3st_07_RadioButton) - 여러개의 선택지 중에서 하나만 선택하는 위젯
+    
+    [CheckBox](https://github.com/hkdong0694/thisisKotlin/tree/master/3st_08_CheckBox) - 여러개의 선택지를 한번 선택하는 위젯
 
