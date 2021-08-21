@@ -64,4 +64,6 @@
     [TextView](https://github.com/hkdong0694/thisisKotlin/tree/master/3st_04_TextView) - 화면에 텍스트를 출력하는 위젯
 
     [EditText](https://github.com/hkdong0694/thisisKotlin/tree/master/3st_05_EditText) - 클자를 보여주면서 입력받는 용도로 사용하는 위젯
+    
+    [ImageButton](https://github.com/hkdong0694/thisisKotlin/tree/master/3st_06_ImageButton) - 이미지를 갖는 버튼 위젯
 
